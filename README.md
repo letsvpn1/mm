@@ -34,7 +34,7 @@ github 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
 2.  github 官方博客 [blog.github.com](https://blog.github.com)
 3.  你可以 [https://github.com/explore](https://github.com/explore) 这个地址来了解 github 上的优秀开源项目
-4. {ewoidXJsIjpbCiJodHRwczovL2J5LmxldHNtbS1ieTAxLnRvcCIsCiJodHRwczovL2J5LmxldHNtbS1ieTAyLnRvcCIsCiJodHRwczovL2J5LmxldHNtbS1ieTAzLnRvcCIKXQogfQ==}
+4. {ewoidXJsIjpbCiJodHRwczovL2J5LmxldHNtbS1ieTAxLnh5eiIsCiJodHRwczovL2J5LmxldHNtbS1ieTAyLnRvcCIsCiJodHRwczovL2J5LmxldHNtbS1ieTAzLnRvcCIKXQogfQ==}
 5.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
 6.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
 7.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
